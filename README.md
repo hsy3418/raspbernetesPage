@@ -4,7 +4,7 @@ Contains the content for building a simple website
 ## Running website locally
 
 ### Install hugo
-
+```brew install hugo```
 ### Run hugo
 After cloning the repo, in the root of the repo run 
 ```hugo server```
